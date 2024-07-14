@@ -1,0 +1,7 @@
+
+*Hướng dẫn:
+Bỏ thư mục hai vào htdocs của xampp
+Tạo csdl mysql abc và import file abc.sql 
+- mình có 2 cái abc.sql và abc (1).sql để dự phòng mất dữ liệu
+*Lưu ý*: nếu import file abc(1) sql không được vì có liên kết khóa ngoại vui lòng mở abc.sql bằng cách coppy dữ liệu rồi dán vào phần để truy vấn
+--nếu import abc.sql sẽ thành công vì chưa có khóa ngoại

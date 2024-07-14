@@ -1,0 +1,3 @@
+Đường dẫn Admin: /admin
+Tài khoản: admin
+Mật khẩu: 123456
